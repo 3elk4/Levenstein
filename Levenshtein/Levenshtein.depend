@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1530455499 source:c:\users\izaa1\desktop\programowanie\levenshtein\func.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"func.h"
+
+1530453571 c:\users\izaa1\desktop\programowanie\levenshtein\func.h
+
+1530455284 source:c:\users\izaa1\desktop\programowanie\levenshtein\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"func.h"
+
